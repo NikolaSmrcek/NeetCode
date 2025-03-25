@@ -1,0 +1,20 @@
+{
+    "name": "products-of-array-except-self",
+    "version": "1.0.0",
+    "description": "A project to calculate the product of an array except self.",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "start": "node main.js",
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "Nikola Smrcek",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "7.26.10",
+        "@babel/preset-env": "7.26.9",
+        "babel-jest": "29.7.0",
+        "jest": "29.7.0"
+    }
+}
