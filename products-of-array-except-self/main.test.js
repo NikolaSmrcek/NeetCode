@@ -1,4 +1,3 @@
-// const Solution = require('./main');
 import Solution from './main';
 
 // main.test.js
