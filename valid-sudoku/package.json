@@ -1,7 +1,7 @@
 {
-    "name": "sudoku",
+    "name": "valid-sudoku",
     "version": "1.0.0",
-    "description": "A project to calculate the product of an array except self.",
+    "description": "A project to check is sudoku valid.",
     "main": "main.js",
     "type": "module",
     "scripts": {
